@@ -10,3 +10,12 @@ def swap():
     """
     x = 10
     y = 20
+    print(x)
+    print(y)
+
+    x1= 20
+    y2 = 10
+
+    print(x1)
+    print(y2)
+swap()
